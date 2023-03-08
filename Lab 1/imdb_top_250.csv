@@ -1,0 +1,251 @@
+Ranking,Titles,Release Years,Ratings,Casting,
+1,The Shawshank Redemption,1994,9.2,Frank Darabont (dir.); Tim Robbins; Morgan Freeman
+2,The Godfather,1972,9.2,Francis Ford Coppola (dir.); Marlon Brando; Al Pacino
+3,The Dark Knight,2008,9.0,Christopher Nolan (dir.); Christian Bale; Heath Ledger
+4,The Godfather Part II,1974,9.0,Francis Ford Coppola (dir.); Al Pacino; Robert De Niro
+5,12 Angry Men,1957,9.0,Sidney Lumet (dir.); Henry Fonda; Lee J. Cobb
+6,Schindler's List,1993,8.9,Steven Spielberg (dir.); Liam Neeson; Ralph Fiennes
+7,The Lord of the Rings: The Return of the King,2003,8.9,Peter Jackson (dir.); Elijah Wood; Viggo Mortensen
+8,Pulp Fiction,1994,8.8,Quentin Tarantino (dir.); John Travolta; Uma Thurman
+9,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,Peter Jackson (dir.); Elijah Wood; Ian McKellen
+10,The Good; the Bad and the Ugly,1966,8.8,Sergio Leone (dir.); Clint Eastwood; Eli Wallach
+11,Forrest Gump,1994,8.8,Robert Zemeckis (dir.); Tom Hanks; Robin Wright
+12,Fight Club,1999,8.7,David Fincher (dir.); Brad Pitt; Edward Norton
+13,The Lord of the Rings: The Two Towers,2002,8.7,Peter Jackson (dir.); Elijah Wood; Ian McKellen
+14,Inception,2010,8.7,Christopher Nolan (dir.); Leonardo DiCaprio; Joseph Gordon-Levitt
+15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,Irvin Kershner (dir.); Mark Hamill; Harrison Ford
+16,The Matrix,1999,8.7,Lana Wachowski (dir.); Keanu Reeves; Laurence Fishburne
+17,GoodFellas,1990,8.7,Martin Scorsese (dir.); Robert De Niro; Ray Liotta
+18,One Flew Over the Cuckoo's Nest,1975,8.6,Milos Forman (dir.); Jack Nicholson; Louise Fletcher
+19,Seven,1995,8.6,David Fincher (dir.); Morgan Freeman; Brad Pitt
+20,Seven Samurai,1954,8.6,Akira Kurosawa (dir.); Toshirô Mifune; Takashi Shimura
+21,It's a Wonderful Life,1946,8.6,Frank Capra (dir.); James Stewart; Donna Reed
+22,The Silence of the Lambs,1991,8.6,Jonathan Demme (dir.); Jodie Foster; Anthony Hopkins
+23,Saving Private Ryan,1998,8.6,Steven Spielberg (dir.); Tom Hanks; Matt Damon
+24,City of God,2002,8.6,Fernando Meirelles (dir.); Alexandre Rodrigues; Leandro Firmino
+25,Interstellar,2014,8.6,Christopher Nolan (dir.); Matthew McConaughey; Anne Hathaway
+26,Life Is Beautiful,1997,8.6,Roberto Benigni (dir.); Roberto Benigni; Nicoletta Braschi
+27,The Green Mile,1999,8.6,Frank Darabont (dir.); Tom Hanks; Michael Clarke Duncan
+28,Star Wars,1977,8.5,George Lucas (dir.); Mark Hamill; Harrison Ford
+29,Terminator 2: Judgment Day,1991,8.5,James Cameron (dir.); Arnold Schwarzenegger; Linda Hamilton
+30,Back to the Future,1985,8.5,Robert Zemeckis (dir.); Michael J. Fox; Christopher Lloyd
+31,Spirited Away,2001,8.5,Hayao Miyazaki (dir.); Daveigh Chase; Suzanne Pleshette
+32,The Pianist,2002,8.5,Roman Polanski (dir.); Adrien Brody; Thomas Kretschmann
+33,Psycho,1960,8.5,Alfred Hitchcock (dir.); Anthony Perkins; Janet Leigh
+34,Parasite,2019,8.5,Bong Joon Ho (dir.); Song Kang-ho; Lee Sun-kyun
+35,Leon,1994,8.5,Luc Besson (dir.); Jean Reno; Gary Oldman
+36,The Lion King,1994,8.5,Roger Allers (dir.); Matthew Broderick; Jeremy Irons
+37,Gladiator,2000,8.5,Ridley Scott (dir.); Russell Crowe; Joaquin Phoenix
+38,American History X,1998,8.5,Tony Kaye (dir.); Edward Norton; Edward Furlong
+39,The Departed,2006,8.5,Martin Scorsese (dir.); Leonardo DiCaprio; Matt Damon
+40,The Usual Suspects,1995,8.5,Bryan Singer (dir.); Kevin Spacey; Gabriel Byrne
+41,The Prestige,2006,8.5,Christopher Nolan (dir.); Christian Bale; Hugh Jackman
+42,Whiplash,2014,8.5,Damien Chazelle (dir.); Miles Teller; J.K. Simmons
+43,Casablanca,1942,8.5,Michael Curtiz (dir.); Humphrey Bogart; Ingrid Bergman
+44,Grave of the Fireflies,1988,8.5,Isao Takahata (dir.); Tsutomu Tatsumi; Ayano Shiraishi
+45,Harakiri,1962,8.5,Masaki Kobayashi (dir.); Tatsuya Nakadai; Akira Ishihama
+46,Untouchable,2011,8.5,Olivier Nakache (dir.); François Cluzet; Omar Sy
+47,Modern Times,1936,8.4,Charles Chaplin (dir.); Charles Chaplin; Paulette Goddard
+48,Once Upon a Time in the West,1968,8.4,Sergio Leone (dir.); Henry Fonda; Charles Bronson
+49,Cinema Paradiso,1988,8.4,Giuseppe Tornatore (dir.); Philippe Noiret; Enzo Cannavale
+50,Rear Window,1954,8.4,Alfred Hitchcock (dir.); James Stewart; Grace Kelly
+51,Alien,1979,8.4,Ridley Scott (dir.); Sigourney Weaver; Tom Skerritt
+52,City Lights,1931,8.4,Charles Chaplin (dir.); Charles Chaplin; Virginia Cherrill
+53,Apocalypse Now,1979,8.4,Francis Ford Coppola (dir.); Martin Sheen; Marlon Brando
+54,Memento,2000,8.4,Christopher Nolan (dir.); Guy Pearce; Carrie-Anne Moss
+55,Django Unchained,2012,8.4,Quentin Tarantino (dir.); Jamie Foxx; Christoph Waltz
+56,Raiders of the Lost Ark,1981,8.4,Steven Spielberg (dir.); Harrison Ford; Karen Allen
+57,WALL·E,2008,8.4,Andrew Stanton (dir.); Ben Burtt; Elissa Knight
+58,The Lives of Others,2006,8.4,Florian Henckel von Donnersmarck (dir.); Ulrich Mühe; Martina Gedeck
+59,Sunset Blvd.,1950,8.4,Billy Wilder (dir.); William Holden; Gloria Swanson
+60,Paths of Glory,1957,8.4,Stanley Kubrick (dir.); Kirk Douglas; Ralph Meeker
+61,The Shining,1980,8.4,Stanley Kubrick (dir.); Jack Nicholson; Shelley Duvall
+62,The Great Dictator,1940,8.4,Charles Chaplin (dir.); Charles Chaplin; Paulette Goddard
+63,Avengers: Infinity War,2018,8.4,Anthony Russo (dir.); Robert Downey Jr.; Chris Hemsworth
+64,Witness for the Prosecution,1957,8.4,Billy Wilder (dir.); Tyrone Power; Marlene Dietrich
+65,Aliens,1986,8.3,James Cameron (dir.); Sigourney Weaver; Michael Biehn
+66,Spider-Man: Into the Spider-Verse,2018,8.3,Bob Persichetti (dir.); Shameik Moore; Jake Johnson
+67,American Beauty,1999,8.3,Sam Mendes (dir.); Kevin Spacey; Annette Bening
+68,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,Stanley Kubrick (dir.); Peter Sellers; George C. Scott
+69,The Dark Knight Rises,2012,8.3,Christopher Nolan (dir.); Christian Bale; Tom Hardy
+70,Oldboy,2003,8.3,Park Chan-wook (dir.); Choi Min-sik; Yoo Ji-tae
+71,Inglourious Basterds,2009,8.3,Quentin Tarantino (dir.); Brad Pitt; Diane Kruger
+72,Amadeus,1984,8.3,Milos Forman (dir.); F. Murray Abraham; Tom Hulce
+73,Coco,2017,8.3,Lee Unkrich (dir.); Anthony Gonzalez; Gael García Bernal
+74,Toy Story,1995,8.3,John Lasseter (dir.); Tom Hanks; Tim Allen
+75,Joker,2019,8.3,Todd Phillips (dir.); Joaquin Phoenix; Robert De Niro
+76,Braveheart,1995,8.3,Mel Gibson (dir.); Mel Gibson; Sophie Marceau
+77,Das Boot,1981,8.3,Wolfgang Petersen (dir.); Jürgen Prochnow; Herbert Grönemeyer
+78,Avengers: Endgame,2019,8.3,Anthony Russo (dir.); Robert Downey Jr.; Chris Evans
+79,Princess Mononoke,1997,8.3,Hayao Miyazaki (dir.); Yôji Matsuda; Yuriko Ishida
+80,Once Upon a Time in America,1984,8.3,Sergio Leone (dir.); Robert De Niro; James Woods
+81,Good Will Hunting,1997,8.3,Gus Van Sant (dir.); Robin Williams; Matt Damon
+82,Your Name.,2016,8.3,Makoto Shinkai (dir.); Ryunosuke Kamiki; Mone Kamishiraishi
+83,Singin' in the Rain,1952,8.3,Stanley Donen (dir.); Gene Kelly; Donald O'Connor
+84,3 Idiots,2009,8.3,Rajkumar Hirani (dir.); Aamir Khan; Madhavan
+85,Requiem for a Dream,2000,8.3,Darren Aronofsky (dir.); Ellen Burstyn; Jared Leto
+86,High and Low,1963,8.3,Akira Kurosawa (dir.); Toshirô Mifune; Yutaka Sada
+87,Toy Story 3,2010,8.3,Lee Unkrich (dir.); Tom Hanks; Tim Allen
+88,Capernaum,2018,8.3,Nadine Labaki (dir.); Zain Al Rafeea; Yordanos Shiferaw
+89,Star Wars: Return of the Jedi,1983,8.3,Richard Marquand (dir.); Mark Hamill; Harrison Ford
+90,2001: A Space Odyssey,1968,8.3,Stanley Kubrick (dir.); Keir Dullea; Gary Lockwood
+91,Eternal Sunshine of the Spotless Mind,2004,8.3,Michel Gondry (dir.); Jim Carrey; Kate Winslet
+92,Reservoir Dogs,1992,8.3,Quentin Tarantino (dir.); Harvey Keitel; Tim Roth
+93,Come and See,1985,8.3,Elem Klimov (dir.); Aleksey Kravchenko; Olga Mironova
+94,The Hunt,2012,8.3,Thomas Vinterberg (dir.); Mads Mikkelsen; Thomas Bo Larsen
+95,Citizen Kane,1941,8.3,Orson Welles (dir.); Orson Welles; Joseph Cotten
+96,M,1931,8.2,Fritz Lang (dir.); Peter Lorre; Ellen Widmann
+97,Lawrence of Arabia,1962,8.2,David Lean (dir.); Peter O'Toole; Alec Guinness
+98,North by Northwest,1959,8.2,Alfred Hitchcock (dir.); Cary Grant; Eva Marie Saint
+99,Ikiru,1952,8.2,Akira Kurosawa (dir.); Takashi Shimura; Nobuo Kaneko
+100,Vertigo,1958,8.2,Alfred Hitchcock (dir.); James Stewart; Kim Novak
+101,The Apartment,1960,8.2,Billy Wilder (dir.); Jack Lemmon; Shirley MacLaine
+102,Amélie,2001,8.2,Jean-Pierre Jeunet (dir.); Audrey Tautou; Mathieu Kassovitz
+103,A Clockwork Orange,1971,8.2,Stanley Kubrick (dir.); Malcolm McDowell; Patrick Magee
+104,Double Indemnity,1944,8.2,Billy Wilder (dir.); Fred MacMurray; Barbara Stanwyck
+105,Full Metal Jacket,1987,8.2,Stanley Kubrick (dir.); Matthew Modine; R. Lee Ermey
+106,Scarface,1983,8.2,Brian De Palma (dir.); Al Pacino; Michelle Pfeiffer
+107,Hamilton,2020,8.2,Thomas Kail (dir.); Lin-Manuel Miranda; Phillipa Soo
+108,Incendies,2010,8.2,Denis Villeneuve (dir.); Lubna Azabal; Mélissa Désormeaux-Poulin
+109,Heat,1995,8.2,Michael Mann (dir.); Al Pacino; Robert De Niro
+110,To Kill a Mockingbird,1962,8.2,Robert Mulligan (dir.); Gregory Peck; John Megna
+111,The Sting,1973,8.2,George Roy Hill (dir.); Paul Newman; Robert Redford
+112,Up,2009,8.2,Pete Docter (dir.); Edward Asner; Jordan Nagai
+113,Top Gun: Maverick,2022,8.2,Joseph Kosinski (dir.); Tom Cruise; Jennifer Connelly
+114,A Separation,2011,8.2,Asghar Farhadi (dir.); Payman Maadi; Leila Hatami
+115,Metropolis,1927,8.2,Fritz Lang (dir.); Brigitte Helm; Alfred Abel
+116,Taxi Driver,1976,8.2,Martin Scorsese (dir.); Robert De Niro; Jodie Foster
+117,L.A. Confidential,1997,8.2,Curtis Hanson (dir.); Kevin Spacey; Russell Crowe
+118,Die Hard,1988,8.2,John McTiernan (dir.); Bruce Willis; Alan Rickman
+119,Snatch,2000,8.2,Guy Ritchie (dir.); Jason Statham; Brad Pitt
+120,Indiana Jones and the Last Crusade,1989,8.2,Steven Spielberg (dir.); Harrison Ford; Sean Connery
+121,Bicycle Thieves,1948,8.2,Vittorio De Sica (dir.); Lamberto Maggiorani; Enzo Staiola
+122,Like Stars on Earth,2007,8.2,Aamir Khan (dir.); Darsheel Safary; Aamir Khan
+123,1917,2019,8.2,Sam Mendes (dir.); Dean-Charles Chapman; George MacKay
+124,Downfall,2004,8.2,Oliver Hirschbiegel (dir.); Bruno Ganz; Alexandra Maria Lara
+125,Dangal,2016,8.2,Nitesh Tiwari (dir.); Aamir Khan; Sakshi Tanwar
+126,For a Few Dollars More,1965,8.2,Sergio Leone (dir.); Clint Eastwood; Lee Van Cleef
+127,Batman Begins,2005,8.2,Christopher Nolan (dir.); Christian Bale; Michael Caine
+128,The Kid,1921,8.2,Charles Chaplin (dir.); Charles Chaplin; Edna Purviance
+129,Some Like It Hot,1959,8.2,Billy Wilder (dir.); Marilyn Monroe; Tony Curtis
+130,The Father,2020,8.2,Florian Zeller (dir.); Anthony Hopkins; Olivia Colman
+131,All About Eve,1950,8.2,Joseph L. Mankiewicz (dir.); Bette Davis; Anne Baxter
+132,The Wolf of Wall Street,2013,8.2,Martin Scorsese (dir.); Leonardo DiCaprio; Jonah Hill
+133,Green Book,2018,8.2,Peter Farrelly (dir.); Viggo Mortensen; Mahershala Ali
+134,Judgment at Nuremberg,1961,8.2,Stanley Kramer (dir.); Spencer Tracy; Burt Lancaster
+135,Ran,1985,8.2,Akira Kurosawa (dir.); Tatsuya Nakadai; Akira Terao
+136,Casino,1995,8.2,Martin Scorsese (dir.); Robert De Niro; Sharon Stone
+137,The Truman Show,1998,8.2,Peter Weir (dir.); Jim Carrey; Ed Harris
+138,Pan's Labyrinth,2006,8.2,Guillermo del Toro (dir.); Ivana Baquero; Ariadna Gil
+139,There Will Be Blood,2007,8.2,Paul Thomas Anderson (dir.); Daniel Day-Lewis; Paul Dano
+140,Unforgiven,1992,8.2,Clint Eastwood (dir.); Clint Eastwood; Gene Hackman
+141,The Sixth Sense,1999,8.2,M. Night Shyamalan (dir.); Bruce Willis; Haley Joel Osment
+142,Shutter Island,2010,8.2,Martin Scorsese (dir.); Leonardo DiCaprio; Emily Mortimer
+143,A Beautiful Mind,2001,8.2,Ron Howard (dir.); Russell Crowe; Ed Harris
+144,Jurassic Park,1993,8.1,Steven Spielberg (dir.); Sam Neill; Laura Dern
+145,Yojimbo,1961,8.1,Akira Kurosawa (dir.); Toshirô Mifune; Eijirô Tôno
+146,The Treasure of the Sierra Madre,1948,8.1,John Huston (dir.); Humphrey Bogart; Walter Huston
+147,Monty Python and the Holy Grail,1975,8.1,Terry Gilliam (dir.); Graham Chapman; John Cleese
+148,The Great Escape,1963,8.1,John Sturges (dir.); Steve McQueen; James Garner
+149,No Country for Old Men,2007,8.1,Ethan Coen (dir.); Tommy Lee Jones; Javier Bardem
+150,Kill Bill: Vol. 1,2003,8.1,Quentin Tarantino (dir.); Uma Thurman; David Carradine
+151,Rashomon,1950,8.1,Akira Kurosawa (dir.); Toshirô Mifune; Machiko Kyô
+152,Spider-Man: No Way Home,2021,8.1,Jon Watts (dir.); Tom Holland; Zendaya
+153,The Thing,1982,8.1,John Carpenter (dir.); Kurt Russell; Wilford Brimley
+154,Finding Nemo,2003,8.1,Andrew Stanton (dir.); Albert Brooks; Ellen DeGeneres
+155,The Elephant Man,1980,8.1,David Lynch (dir.); Anthony Hopkins; John Hurt
+156,Chinatown,1974,8.1,Roman Polanski (dir.); Jack Nicholson; Faye Dunaway
+157,Raging Bull,1980,8.1,Martin Scorsese (dir.); Robert De Niro; Cathy Moriarty
+158,V for Vendetta,2005,8.1,James McTeigue (dir.); Hugo Weaving; Natalie Portman
+159,Gone with the Wind,1939,8.1,Victor Fleming (dir.); Clark Gable; Vivien Leigh
+160,Lock; Stock and Two Smoking Barrels,1998,8.1,Guy Ritchie (dir.); Jason Flemyng; Dexter Fletcher
+161,Inside Out,2015,8.1,Pete Docter (dir.); Amy Poehler; Bill Hader
+162,Dial M for Murder,1954,8.1,Alfred Hitchcock (dir.); Ray Milland; Grace Kelly
+163,The Secret in Their Eyes,2009,8.1,Juan José Campanella (dir.); Ricardo Darín; Soledad Villamil
+164,Howl's Moving Castle,2004,8.1,Hayao Miyazaki (dir.); Chieko Baisho; Takuya Kimura
+165,Three Billboards Outside Ebbing; Missouri,2017,8.1,Martin McDonagh (dir.); Frances McDormand; Woody Harrelson
+166,The Bridge on the River Kwai,1957,8.1,David Lean (dir.); William Holden; Alec Guinness
+167,Trainspotting,1996,8.1,Danny Boyle (dir.); Ewan McGregor; Ewen Bremner
+168,Prisoners,2013,8.1,Denis Villeneuve (dir.); Hugh Jackman; Jake Gyllenhaal
+169,Warrior,2011,8.1,Gavin O'Connor (dir.); Tom Hardy; Nick Nolte
+170,Fargo,1996,8.1,Joel Coen (dir.); William H. Macy; Frances McDormand
+171,Gran Torino,2008,8.1,Clint Eastwood (dir.); Clint Eastwood; Bee Vang
+172,My Neighbour Totoro,1988,8.1,Hayao Miyazaki (dir.); Hitoshi Takagi; Noriko Hidaka
+173,Catch Me If You Can,2002,8.1,Steven Spielberg (dir.); Leonardo DiCaprio; Tom Hanks
+174,Million Dollar Baby,2004,8.1,Clint Eastwood (dir.); Hilary Swank; Clint Eastwood
+175,Children of Heaven,1997,8.1,Majid Majidi (dir.); Mohammad Amir Naji; Amir Farrokh Hashemian
+176,Blade Runner,1982,8.1,Ridley Scott (dir.); Harrison Ford; Rutger Hauer
+177,The Gold Rush,1925,8.1,Charles Chaplin (dir.); Charles Chaplin; Mack Swain
+178,Klaus,2019,8.1,Sergio Pablos (dir.); Jason Schwartzman; J.K. Simmons
+179,Before Sunrise,1995,8.1,Richard Linklater (dir.); Ethan Hawke; Julie Delpy
+180,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,David Yates (dir.); Daniel Radcliffe; Emma Watson
+181,12 Years a Slave,2013,8.1,Steve McQueen (dir.); Chiwetel Ejiofor; Michael Kenneth Williams
+182,On the Waterfront,1954,8.1,Elia Kazan (dir.); Marlon Brando; Karl Malden
+183,Ben-Hur,1959,8.1,William Wyler (dir.); Charlton Heston; Jack Hawkins
+184,The Grand Budapest Hotel,2014,8.1,Wes Anderson (dir.); Ralph Fiennes; F. Murray Abraham
+185,Gone Girl,2014,8.1,David Fincher (dir.); Ben Affleck; Rosamund Pike
+186,Wild Strawberries,1957,8.1,Ingmar Bergman (dir.); Victor Sjöström; Bibi Andersson
+187,The General,1926,8.1,Clyde Bruckman (dir.); Buster Keaton; Marion Mack
+188,In the Name of the Father,1993,8.1,Jim Sheridan (dir.); Daniel Day-Lewis; Pete Postlethwaite
+189,The Third Man,1949,8.1,Carol Reed (dir.); Orson Welles; Joseph Cotten
+190,Barry Lyndon,1975,8.1,Stanley Kubrick (dir.); Ryan O'Neal; Marisa Berenson
+191,The Deer Hunter,1978,8.1,Michael Cimino (dir.); Robert De Niro; Christopher Walken
+192,Hacksaw Ridge,2016,8.1,Mel Gibson (dir.); Andrew Garfield; Sam Worthington
+193,The Wages of Fear,1953,8.1,Henri-Georges Clouzot (dir.); Yves Montand; Charles Vanel
+194,Memories of Murder,2003,8.1,Bong Joon Ho (dir.); Song Kang-ho; Kim Sang-kyung
+195,Sherlock Jr.,1924,8.1,Buster Keaton (dir.); Buster Keaton; Kathryn McGuire
+196,Wild Tales,2014,8.1,Damián Szifron (dir.); Darío Grandinetti; María Marull
+197,Mr. Smith Goes to Washington,1939,8.1,Frank Capra (dir.); James Stewart; Jean Arthur
+198,Mad Max: Fury Road,2015,8.1,George Miller (dir.); Tom Hardy; Charlize Theron
+199,Mary and Max,2009,8.1,Adam Elliot (dir.); Toni Collette; Philip Seymour Hoffman
+200,The Seventh Seal,1957,8.1,Ingmar Bergman (dir.); Max von Sydow; Gunnar Björnstrand
+201,How to Train Your Dragon,2010,8.1,Dean DeBlois (dir.); Jay Baruchel; Gerard Butler
+202,Monsters; Inc.,2001,8.1,Pete Docter (dir.); Billy Crystal; John Goodman
+203,Room,2015,8.1,Lenny Abrahamson (dir.); Brie Larson; Jacob Tremblay
+204,Jaws,1975,8.1,Steven Spielberg (dir.); Roy Scheider; Robert Shaw
+205,Dead Poets Society,1989,8.1,Peter Weir (dir.); Robin Williams; Robert Sean Leonard
+206,The Big Lebowski,1998,8.1,Joel Coen (dir.); Jeff Bridges; John Goodman
+207,Tokyo Story,1953,8.1,Yasujirô Ozu (dir.); Chishû Ryû; Chieko Higashiyama
+208,The Passion of Joan of Arc,1928,8.1,Carl Theodor Dreyer (dir.); Maria Falconetti; Eugene Silvain
+209,Le Mans '66,2019,8.0,James Mangold (dir.); Matt Damon; Christian Bale
+210,Hotel Rwanda,2004,8.0,Terry George (dir.); Don Cheadle; Sophie Okonedo
+211,Rocky,1976,8.0,John G. Avildsen (dir.); Sylvester Stallone; Talia Shire
+212,Platoon,1986,8.0,Oliver Stone (dir.); Charlie Sheen; Tom Berenger
+213,Ratatouille,2007,8.0,Brad Bird (dir.); Brad Garrett; Lou Romano
+214,Spotlight,2015,8.0,Tom McCarthy (dir.); Mark Ruffalo; Michael Keaton
+215,The Terminator,1984,8.0,James Cameron (dir.); Arnold Schwarzenegger; Linda Hamilton
+216,Logan,2017,8.0,James Mangold (dir.); Hugh Jackman; Patrick Stewart
+217,Stand by Me,1986,8.0,Rob Reiner (dir.); Wil Wheaton; River Phoenix
+218,Rush,2013,8.0,Ron Howard (dir.); Daniel Brühl; Chris Hemsworth
+219,Network,1976,8.0,Sidney Lumet (dir.); Faye Dunaway; William Holden
+220,Before Sunset,2004,8.0,Richard Linklater (dir.); Ethan Hawke; Julie Delpy
+221,Into the Wild,2007,8.0,Sean Penn (dir.); Emile Hirsch; Vince Vaughn
+222,The Wizard of Oz,1939,8.0,Victor Fleming (dir.); Judy Garland; Frank Morgan
+223,The Best Years of Our Lives,1946,8.0,William Wyler (dir.); Myrna Loy; Dana Andrews
+224,Pather Panchali,1955,8.0,Satyajit Ray (dir.); Kanu Bannerjee; Karuna Bannerjee
+225,Groundhog Day,1993,8.0,Harold Ramis (dir.); Bill Murray; Andie MacDowell
+226,The Exorcist,1973,8.0,William Friedkin (dir.); Ellen Burstyn; Max von Sydow
+227,To Be or Not to Be,1942,8.0,Ernst Lubitsch (dir.); Carole Lombard; Jack Benny
+228,The Incredibles,2004,8.0,Brad Bird (dir.); Craig T. Nelson; Samuel L. Jackson
+229,La haine,1995,8.0,Mathieu Kassovitz (dir.); Vincent Cassel; Hubert Koundé
+230,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.0,Gore Verbinski (dir.); Johnny Depp; Geoffrey Rush
+231,The Battle of Algiers,1966,8.0,Gillo Pontecorvo (dir.); Brahim Hadjadj; Jean Martin
+232,Hachi: A Dog's Tale,2009,8.0,Lasse Hallström (dir.); Richard Gere; Joan Allen
+233,The Grapes of Wrath,1940,8.0,John Ford (dir.); Henry Fonda; Jane Darwell
+234,Jai Bhim,2021,8.0,T.J. Gnanavel (dir.); Suriya; Lijo Mol Jose
+235,My Father and My Son,2005,8.0,Çagan Irmak (dir.); Çetin Tekindor; Fikret Kuskan
+236,Amores perros,2000,8.0,Alejandro G. Iñárritu (dir.); Emilio Echevarría; Gael García Bernal
+237,Rebecca,1940,8.0,Alfred Hitchcock (dir.); Laurence Olivier; Joan Fontaine
+238,Cool Hand Luke,1967,8.0,Stuart Rosenberg (dir.); Paul Newman; George Kennedy
+239,The Handmaiden,2016,8.0,Park Chan-wook (dir.); Kim Min-hee; Ha Jung-woo
+240,The 400 Blows,1959,8.0,François Truffaut (dir.); Jean-Pierre Léaud; Albert Rémy
+241,The Sound of Music,1965,8.0,Robert Wise (dir.); Julie Andrews; Christopher Plummer
+242,It Happened One Night,1934,8.0,Frank Capra (dir.); Clark Gable; Claudette Colbert
+243,Persona,1966,8.0,Ingmar Bergman (dir.); Bibi Andersson; Liv Ullmann
+244,Life of Brian,1979,8.0,Terry Jones (dir.); Graham Chapman; John Cleese
+245,The Iron Giant,1999,8.0,Brad Bird (dir.); Eli Marienthal; Harry Connick Jr.
+246,Dersu Uzala,1975,8.0,Akira Kurosawa (dir.); Maksim Munzuk; Yuriy Solomin
+247,The Help,2011,8.0,Tate Taylor (dir.); Viola Davis; Emma Stone
+248,Aladdin,1992,8.0,Ron Clements (dir.); Scott Weinger; Robin Williams
+249,Gandhi,1982,8.0,Richard Attenborough (dir.); Ben Kingsley; John Gielgud
+250,Dances with Wolves,1990,8.0,Kevin Costner (dir.); Kevin Costner; Mary McDonnell
